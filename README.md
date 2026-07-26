@@ -192,7 +192,6 @@ Then open the local URL Streamlit prints (typically `http://localhost:8501`).
 - **GitHub Repository:** `https://github.com/2025ac05976-niraj-ghetiya/Machine-Learning-S2-25_AIMLCZG565`
 - **Live Streamlit App:** `https://2025ac05976-niraj-ghetiya.streamlit.app/`
 
-*(Both placeholders will be replaced with real links once the repository is pushed to GitHub and the app is deployed on Streamlit Community Cloud - see the assignment PDF, Step 6.)*
 
 ## BITS Virtual Lab Screenshot
 
