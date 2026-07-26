@@ -11,11 +11,12 @@ import json
 import os
 import sys
 
-import joblib
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 import streamlit as st
+import joblib
 
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
 MODEL_DIR = os.path.join(APP_DIR, "model")
