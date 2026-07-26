@@ -58,7 +58,7 @@ layout.
 
 ## c. GitHub Repository Link
 
-`<GITHUB_REPOSITORY_URL_PLACEHOLDER>`
+`https://github.com/2025ac05976-niraj-ghetiya/Machine-Learning-S2-25_AIMLCZG565`
 
 *(Placeholder - to be replaced with the real repository URL once pushed to GitHub. See "Deployment" below.)*
 
@@ -157,7 +157,7 @@ ml-assignment-2/
 ## Local Installation
 
 ```bash
-git clone <GITHUB_REPOSITORY_URL_PLACEHOLDER>
+git clone https://github.com/2025ac05976-niraj-ghetiya/Machine-Learning-S2-25_AIMLCZG565
 cd ml-assignment-2
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
@@ -189,7 +189,7 @@ Then open the local URL Streamlit prints (typically `http://localhost:8501`).
 
 ## Live Links
 
-- **GitHub Repository:** `<GITHUB_REPOSITORY_URL_PLACEHOLDER>`
+- **GitHub Repository:** `https://github.com/2025ac05976-niraj-ghetiya/Machine-Learning-S2-25_AIMLCZG565`
 - **Live Streamlit App:** `<STREAMLIT_APP_URL_PLACEHOLDER>`
 
 *(Both placeholders will be replaced with real links once the repository is pushed to GitHub and the app is deployed on Streamlit Community Cloud - see the assignment PDF, Step 6.)*
