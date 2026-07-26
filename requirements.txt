@@ -4,5 +4,5 @@ pandas==2.3.1
 numpy==1.26.4
 matplotlib==3.9.1
 seaborn==0.13.2
-joblib==1.4.2
+joblib
 openpyxl==3.1.5
